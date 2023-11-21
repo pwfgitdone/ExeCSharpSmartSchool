@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
+    "C:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
+    "C:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "projectName": "SmartSchool-WebAPI",
-        "projectPath": "c:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\Angular & .Net Core\\SmartSchool-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
